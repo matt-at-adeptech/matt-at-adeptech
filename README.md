@@ -4,7 +4,7 @@
 - 🔭 I'm founder @[Adept Technologies](https://adeptech.dev)
 - 💬 I'm reading [Facfulness](https://www.amazon.com.au/Factfulness-Reasons-World-Things-Better/dp/1250107814)
 - 📫 Socials [![Twitter Badge](https://img.shields.io/badge/-@Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mattmahdieh "Follow on Twitter") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmahdieh "Follow on LinkedIn")
-- 👥 How to reach me? [Email me](m.mahdiyeh@gmail.com)
+- 👥 How to reach me? [Email me](matt@adeptech.dev)
 
 ## 💻Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
